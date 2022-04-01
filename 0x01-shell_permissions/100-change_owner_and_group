@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod vincent:staff 0-iam_betty 100-change_owner_and_group 10-mirror_permissions 1-who_am_i README.md
