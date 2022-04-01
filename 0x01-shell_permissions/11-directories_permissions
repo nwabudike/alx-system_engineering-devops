@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod a+x 0-iam_betty 100-change_owner_and_group 101-symbolic_link_permissions 102-if_only 103-Star_Wars 10-mirror_permissions 11-directories_permissions 1-who_am_i README.md
